@@ -11,17 +11,17 @@ Ce projet vise à analyser les données du marché immobilier en utilisant des t
 
 - Python 3.x
 - Les bibliothèques Python requises sont :
-- numpy==1.18.5
-  pandas==1.0.5
-  scikit-learn==0.23.1
-  matplotlib==3.2.2
-  tensorflow==2.2.0
+- numpy==1.18.5 
+ - pandas==1.0.5
+ - scikit-learn==0.23.1
+ - matplotlib==3.2.2
+ - tensorflow==2.2.0
 
 ## Instructions d'Utilisation
 
-1. Clonez le repository : `git clone https://github.com/votre-utilisateur/nom-du-projet.git`
+1. Clonez le repository 
 2. Installez les dépendances 
-3. Exécutez le notebook `analyze_housing_market.ipynb`.
+3. Exécutez le notebook `Tunisian_house_prices.ipynb`.
 
 ## Structure du Projet
 
