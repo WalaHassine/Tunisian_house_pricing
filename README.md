@@ -4,7 +4,7 @@ Ce projet vise à analyser les données du marché immobilier en utilisant des t
 
 ## Contenu du Projet
 
-- `housing_data.csv`: Le jeu de données contenant les informations sur les propriétés.
+- `dataset_clean.csv`: Le jeu de données contenant les informations sur les propriétés.
 - `analyze_housing_market.ipynb`: Un notebook Jupyter qui contient le code Python pour l'analyse et la modélisation.
 
 ## Prérequis
